@@ -1,0 +1,29 @@
+﻿@model WebsiteBanHang.Models.Product
+
+<h2>Product Details</h2>
+
+@if (Model != null)
+{
+    <div>
+        <h4>Name: @Model.Name</h4>
+        <h4>Price: @Model.Price</h4>
+        <h4>Description: @Model.Description</h4>
+
+        @if (!string.IsNullOrEmpty(Model.ImageUrl))
+        {
+            <img src="@Model.ImageUrl" alt="Product Image" style="width: 300px; height: auto;" />
+        }
+
+        @if (Model.ImageUrls?.Any() == true)
+        {
+            @foreach (var imageUrl in Model.ImageUrls)
+            {
+                <img src="@imageUrl" alt="Additional Product Image" style="width: 300px; height: auto;" />
+            }
+        }
+    </div>
+}
+else
+{
+    <p>No product details available.</p>
+}

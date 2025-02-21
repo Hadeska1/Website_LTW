@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PhamTaManhLan_LTW.props" />
+</Project>

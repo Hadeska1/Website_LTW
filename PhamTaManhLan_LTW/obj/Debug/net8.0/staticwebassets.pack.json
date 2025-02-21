@@ -1,0 +1,345 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_LTW\\PhamTaManhLan_LTW\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebsiteBanHang.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebsiteBanHang.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_LTW\\PhamTaManhLan_LTW\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_LTW\\PhamTaManhLan_LTW\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_LTW\\PhamTaManhLan_LTW\\wwwroot\\images\\164037ef-b0e4-43fe-b091-cf25d011c6f0.jpg",
+      "PackagePath": "staticwebassets\\images\\164037ef-b0e4-43fe-b091-cf25d011c6f0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_LTW\\PhamTaManhLan_LTW\\wwwroot\\images\\2403ec49-79bf-4ff9-9253-77252711da33.jpg",
+      "PackagePath": "staticwebassets\\images\\2403ec49-79bf-4ff9-9253-77252711da33.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_LTW\\PhamTaManhLan_LTW\\wwwroot\\images\\448260663_1182665166256643_8519978669799908763_n.png",
+      "PackagePath": "staticwebassets\\images\\448260663_1182665166256643_8519978669799908763_n.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_LTW\\PhamTaManhLan_LTW\\wwwroot\\images\\449731795_2894013540774193_4493037161539541403_n.jpg",
+      "PackagePath": "staticwebassets\\images\\449731795_2894013540774193_4493037161539541403_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_LTW\\PhamTaManhLan_LTW\\wwwroot\\images\\454614682_1233254694367092_1512082648275790128_n.jpg",
+      "PackagePath": "staticwebassets\\images\\454614682_1233254694367092_1512082648275790128_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_LTW\\PhamTaManhLan_LTW\\wwwroot\\images\\462543768_930544762582612_1958362561969937944_n.jpg",
+      "PackagePath": "staticwebassets\\images\\462543768_930544762582612_1958362561969937944_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_LTW\\PhamTaManhLan_LTW\\wwwroot\\images\\5b37ffd3-6cb6-4002-bf1e-6a9137495d48.jpg",
+      "PackagePath": "staticwebassets\\images\\5b37ffd3-6cb6-4002-bf1e-6a9137495d48.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_LTW\\PhamTaManhLan_LTW\\wwwroot\\images\\65f075a9-64ec-4d6b-a4d6-655481d4f9f3.jpg",
+      "PackagePath": "staticwebassets\\images\\65f075a9-64ec-4d6b-a4d6-655481d4f9f3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_LTW\\PhamTaManhLan_LTW\\wwwroot\\images\\81aa8f1b-8806-40a4-bf3c-675cab7b11c8.png",
+      "PackagePath": "staticwebassets\\images\\81aa8f1b-8806-40a4-bf3c-675cab7b11c8.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_LTW\\PhamTaManhLan_LTW\\wwwroot\\images\\8503c2dc-d2bd-4a35-8975-0f7b704de7d4.png",
+      "PackagePath": "staticwebassets\\images\\8503c2dc-d2bd-4a35-8975-0f7b704de7d4.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_LTW\\PhamTaManhLan_LTW\\wwwroot\\images\\91685cd9-3b29-4191-9f64-fc029e47d454.jpg",
+      "PackagePath": "staticwebassets\\images\\91685cd9-3b29-4191-9f64-fc029e47d454.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_LTW\\PhamTaManhLan_LTW\\wwwroot\\images\\9d06645d-d784-4cee-813b-b943e1084f76.png",
+      "PackagePath": "staticwebassets\\images\\9d06645d-d784-4cee-813b-b943e1084f76.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_LTW\\PhamTaManhLan_LTW\\wwwroot\\images\\Dell-xps-9530-3-510x275.png",
+      "PackagePath": "staticwebassets\\images\\Dell-xps-9530-3-510x275.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_LTW\\PhamTaManhLan_LTW\\wwwroot\\images\\a158285d-23fa-4aab-89e9-98aa565218a8.png",
+      "PackagePath": "staticwebassets\\images\\a158285d-23fa-4aab-89e9-98aa565218a8.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_LTW\\PhamTaManhLan_LTW\\wwwroot\\images\\b49d0be0-7965-4a6f-9df4-54017bba4f8f.jpg",
+      "PackagePath": "staticwebassets\\images\\b49d0be0-7965-4a6f-9df4-54017bba4f8f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_LTW\\PhamTaManhLan_LTW\\wwwroot\\images\\baabd7c1-e187-4d70-b264-bc1d7b7a01c2.png",
+      "PackagePath": "staticwebassets\\images\\baabd7c1-e187-4d70-b264-bc1d7b7a01c2.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_LTW\\PhamTaManhLan_LTW\\wwwroot\\images\\cc47ea3e-cf8f-4097-a5eb-2f2c4f6f6e8d.png",
+      "PackagePath": "staticwebassets\\images\\cc47ea3e-cf8f-4097-a5eb-2f2c4f6f6e8d.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_LTW\\PhamTaManhLan_LTW\\wwwroot\\images\\da92c1b3-e24b-4617-904a-eb759cee6a0d.jpg",
+      "PackagePath": "staticwebassets\\images\\da92c1b3-e24b-4617-904a-eb759cee6a0d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_LTW\\PhamTaManhLan_LTW\\wwwroot\\images\\f5f57292-367f-451b-8877-afe32a6afb2e.png",
+      "PackagePath": "staticwebassets\\images\\f5f57292-367f-451b-8877-afe32a6afb2e.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_LTW\\PhamTaManhLan_LTW\\wwwroot\\images\\laptop-dell-xps-9500-1.jpg",
+      "PackagePath": "staticwebassets\\images\\laptop-dell-xps-9500-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_LTW\\PhamTaManhLan_LTW\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_LTW\\PhamTaManhLan_LTW\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_LTW\\PhamTaManhLan_LTW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_LTW\\PhamTaManhLan_LTW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_LTW\\PhamTaManhLan_LTW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_LTW\\PhamTaManhLan_LTW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_LTW\\PhamTaManhLan_LTW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_LTW\\PhamTaManhLan_LTW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_LTW\\PhamTaManhLan_LTW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_LTW\\PhamTaManhLan_LTW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_LTW\\PhamTaManhLan_LTW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_LTW\\PhamTaManhLan_LTW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_LTW\\PhamTaManhLan_LTW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_LTW\\PhamTaManhLan_LTW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_LTW\\PhamTaManhLan_LTW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_LTW\\PhamTaManhLan_LTW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_LTW\\PhamTaManhLan_LTW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_LTW\\PhamTaManhLan_LTW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_LTW\\PhamTaManhLan_LTW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_LTW\\PhamTaManhLan_LTW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_LTW\\PhamTaManhLan_LTW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_LTW\\PhamTaManhLan_LTW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_LTW\\PhamTaManhLan_LTW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_LTW\\PhamTaManhLan_LTW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_LTW\\PhamTaManhLan_LTW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_LTW\\PhamTaManhLan_LTW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_LTW\\PhamTaManhLan_LTW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_LTW\\PhamTaManhLan_LTW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_LTW\\PhamTaManhLan_LTW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_LTW\\PhamTaManhLan_LTW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_LTW\\PhamTaManhLan_LTW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_LTW\\PhamTaManhLan_LTW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_LTW\\PhamTaManhLan_LTW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_LTW\\PhamTaManhLan_LTW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_LTW\\PhamTaManhLan_LTW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_LTW\\PhamTaManhLan_LTW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_LTW\\PhamTaManhLan_LTW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_LTW\\PhamTaManhLan_LTW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_LTW\\PhamTaManhLan_LTW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_LTW\\PhamTaManhLan_LTW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_LTW\\PhamTaManhLan_LTW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_LTW\\PhamTaManhLan_LTW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_LTW\\PhamTaManhLan_LTW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_LTW\\PhamTaManhLan_LTW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_LTW\\PhamTaManhLan_LTW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_LTW\\PhamTaManhLan_LTW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_LTW\\PhamTaManhLan_LTW\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_LTW\\PhamTaManhLan_LTW\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_LTW\\PhamTaManhLan_LTW\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_LTW\\PhamTaManhLan_LTW\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_LTW\\PhamTaManhLan_LTW\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_LTW\\PhamTaManhLan_LTW\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_LTW\\PhamTaManhLan_LTW\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_LTW\\PhamTaManhLan_LTW\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_LTW\\PhamTaManhLan_LTW\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_LTW\\PhamTaManhLan_LTW\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_LTW\\PhamTaManhLan_LTW\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_LTW\\PhamTaManhLan_LTW\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebsiteBanHang.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WebsiteBanHang.props",
+      "PackagePath": "build\\WebsiteBanHang.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WebsiteBanHang.props",
+      "PackagePath": "buildMultiTargeting\\WebsiteBanHang.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WebsiteBanHang.props",
+      "PackagePath": "buildTransitive\\WebsiteBanHang.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

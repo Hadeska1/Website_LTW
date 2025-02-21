@@ -1,0 +1,15 @@
+﻿@model WebsiteBanHang.Models.Product
+
+<h2>Bạn có chắc chắn muốn xóa sản phẩm này?</h2>
+
+<div>
+    <h4>Tên sản phẩm: @Model.Name</h4>
+    <h4>Giá: @Model.Price VNĐ</h4>
+    <h4>Mô tả: @Model.Description</h4>
+</div>
+
+<form asp-action="DeleteConfirmed" method="post">
+    <input type="hidden" asp-for="Id" />
+    <button type="submit" class="btn btn-danger">Xóa</button>
+    <a asp-action="Index" class="btn btn-secondary">Hủy</a>
+</form>
